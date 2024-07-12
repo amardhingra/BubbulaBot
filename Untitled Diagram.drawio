@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-12T10:27:51.589Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="L_Ctg8IjKxQpdxQf2Lj8" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-12T10:50:21.592Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="LR6BThTPqCwC5qKSVmOb" version="24.6.5" type="github">
   <diagram name="Page-1" id="uHiiFnSb_q-HpFeLsput">
-    <mxGraphModel dx="1286" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2136" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="WPK7s5qIF8awcQLVcm9o-10" value="System Separates employees into 13 entities and adds employees to PP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="190" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WPK7s5qIF8awcQLVcm9o-13" target="WPK7s5qIF8awcQLVcm9o-46">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WPK7s5qIF8awcQLVcm9o-13" value="Admin activates all 13 entities" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1100" y="190" width="120" height="60" as="geometry" />
@@ -75,13 +78,126 @@
         <mxCell id="WPK7s5qIF8awcQLVcm9o-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="WPK7s5qIF8awcQLVcm9o-27" target="WPK7s5qIF8awcQLVcm9o-29">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="539.9973684210522" y="510.0026315789475" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="490" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WPK7s5qIF8awcQLVcm9o-27" target="WPK7s5qIF8awcQLVcm9o-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="660" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WPK7s5qIF8awcQLVcm9o-27" value="Data&amp;nbsp;&lt;div&gt;fields match&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;the format?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="510" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WPK7s5qIF8awcQLVcm9o-29" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750.05" y="409.95" width="120" height="60" as="geometry" />
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WPK7s5qIF8awcQLVcm9o-29" target="WPK7s5qIF8awcQLVcm9o-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-29" value="Auto email to TPA for claims MIS - reminder" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="755" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WPK7s5qIF8awcQLVcm9o-31" target="WPK7s5qIF8awcQLVcm9o-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-31" value="TPA adds info in 2 columns in PP" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="955" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WPK7s5qIF8awcQLVcm9o-33" target="WPK7s5qIF8awcQLVcm9o-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-33" value="System deletes emplyees from 13 entties" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WPK7s5qIF8awcQLVcm9o-35" target="WPK7s5qIF8awcQLVcm9o-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-35" value="Ops team downloads file" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WPK7s5qIF8awcQLVcm9o-37" target="WPK7s5qIF8awcQLVcm9o-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-37" value="Clean up the columns" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WPK7s5qIF8awcQLVcm9o-39" target="WPK7s5qIF8awcQLVcm9o-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1010" y="600" />
+              <mxPoint x="815" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-39" value="Upload clean data into PP" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WPK7s5qIF8awcQLVcm9o-42" target="WPK7s5qIF8awcQLVcm9o-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-42" value="Pwc HR logs into Master PP login" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-44" value="Internal team Downloads unified deletion report" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1355" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WPK7s5qIF8awcQLVcm9o-46" target="WPK7s5qIF8awcQLVcm9o-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-46" value="Employees complete enrolment&lt;div&gt;Employee enrolment closes&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WPK7s5qIF8awcQLVcm9o-48" target="WPK7s5qIF8awcQLVcm9o-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1560" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WPK7s5qIF8awcQLVcm9o-48" target="WPK7s5qIF8awcQLVcm9o-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1560" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-48" value="Internal team processes offline requests" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WPK7s5qIF8awcQLVcm9o-50" target="WPK7s5qIF8awcQLVcm9o-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-50" value="System to combine payroll report&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WPK7s5qIF8awcQLVcm9o-54" target="WPK7s5qIF8awcQLVcm9o-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-54" value="System to combine&amp;nbsp; insurer report in NIA format" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-56" value="Sys send single file in PWC accepted format" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1900" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WPK7s5qIF8awcQLVcm9o-58" target="WPK7s5qIF8awcQLVcm9o-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-58" value="email directly to internal team and insurer" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WPK7s5qIF8awcQLVcm9o-60" target="WPK7s5qIF8awcQLVcm9o-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-60" value="Sys to read excel in the email from insurer and tag endorsed employees in PP and highlight declined employees in Admin portal" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="260" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-62" value="Allow internal team to download endorsement file" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-64" value="Master policy - Placeholder" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
