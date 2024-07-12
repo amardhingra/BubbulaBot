@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-12T10:50:21.592Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="LR6BThTPqCwC5qKSVmOb" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-12T10:59:51.374Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="MpAvzkd4hiwwlDNUISIR" version="24.6.5" type="github">
   <diagram name="Page-1" id="uHiiFnSb_q-HpFeLsput">
-    <mxGraphModel dx="2136" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2710" dy="2122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,48 +29,50 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WPK7s5qIF8awcQLVcm9o-10" value="System Separates employees into 13 entities and adds employees to PP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="190" width="140" height="60" as="geometry" />
+          <mxGeometry x="880" y="-20" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WPK7s5qIF8awcQLVcm9o-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WPK7s5qIF8awcQLVcm9o-13" target="WPK7s5qIF8awcQLVcm9o-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WPK7s5qIF8awcQLVcm9o-13" value="Admin activates all 13 entities" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="1100" y="-20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WPK7s5qIF8awcQLVcm9o-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.389;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WPK7s5qIF8awcQLVcm9o-16" target="WPK7s5qIF8awcQLVcm9o-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="240" as="targetPoint" />
+            <mxPoint x="680" y="30" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="465" y="220" />
-              <mxPoint x="858" y="220" />
+              <mxPoint x="465" y="10" />
+              <mxPoint x="858" y="10" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WPK7s5qIF8awcQLVcm9o-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WPK7s5qIF8awcQLVcm9o-16" target="WPK7s5qIF8awcQLVcm9o-20">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="370" as="targetPoint" />
+            <mxPoint x="530" y="160" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="465" y="340" />
+              <mxPoint x="465" y="130" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WPK7s5qIF8awcQLVcm9o-16" value="Data&amp;nbsp;&lt;div&gt;fields match&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;the format?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="230" width="80" height="80" as="geometry" />
+          <mxGeometry x="425" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WPK7s5qIF8awcQLVcm9o-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WPK7s5qIF8awcQLVcm9o-20" target="WPK7s5qIF8awcQLVcm9o-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WPK7s5qIF8awcQLVcm9o-20" value="Ops team downloads file" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WPK7s5qIF8awcQLVcm9o-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WPK7s5qIF8awcQLVcm9o-21" target="WPK7s5qIF8awcQLVcm9o-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WPK7s5qIF8awcQLVcm9o-21" value="Clean up the columns" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WPK7s5qIF8awcQLVcm9o-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WPK7s5qIF8awcQLVcm9o-24" target="WPK7s5qIF8awcQLVcm9o-16">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WPK7s5qIF8awcQLVcm9o-24" target="WPK7s5qIF8awcQLVcm9o-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="60.07692307692287" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="WPK7s5qIF8awcQLVcm9o-24" value="Additions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="240" width="120" height="60" as="geometry" />
@@ -147,57 +149,72 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WPK7s5qIF8awcQLVcm9o-46" value="Employees complete enrolment&lt;div&gt;Employee enrolment closes&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="1300" y="-20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WPK7s5qIF8awcQLVcm9o-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WPK7s5qIF8awcQLVcm9o-48" target="WPK7s5qIF8awcQLVcm9o-50">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1560" y="110" />
+              <mxPoint x="1560" y="-100" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WPK7s5qIF8awcQLVcm9o-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WPK7s5qIF8awcQLVcm9o-48" target="WPK7s5qIF8awcQLVcm9o-54">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1560" y="300" />
+              <mxPoint x="1560" y="90" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WPK7s5qIF8awcQLVcm9o-48" value="Internal team processes offline requests" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="1500" y="-20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WPK7s5qIF8awcQLVcm9o-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WPK7s5qIF8awcQLVcm9o-50" target="WPK7s5qIF8awcQLVcm9o-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WPK7s5qIF8awcQLVcm9o-50" value="System to combine payroll report&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1700" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="1700" y="-130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WPK7s5qIF8awcQLVcm9o-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WPK7s5qIF8awcQLVcm9o-54" target="WPK7s5qIF8awcQLVcm9o-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WPK7s5qIF8awcQLVcm9o-54" value="System to combine&amp;nbsp; insurer report in NIA format" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="1710" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WPK7s5qIF8awcQLVcm9o-56" value="Sys send single file in PWC accepted format" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1900" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="1900" y="-130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WPK7s5qIF8awcQLVcm9o-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WPK7s5qIF8awcQLVcm9o-58" target="WPK7s5qIF8awcQLVcm9o-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WPK7s5qIF8awcQLVcm9o-58" value="email directly to internal team and insurer" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1910" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="1910" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WPK7s5qIF8awcQLVcm9o-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WPK7s5qIF8awcQLVcm9o-60" target="WPK7s5qIF8awcQLVcm9o-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WPK7s5qIF8awcQLVcm9o-60" value="Sys to read excel in the email from insurer and tag endorsed employees in PP and highlight declined employees in Admin portal" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2110" y="260" width="200" height="60" as="geometry" />
+          <mxGeometry x="2110" y="50" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WPK7s5qIF8awcQLVcm9o-62" value="Allow internal team to download endorsement file" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2380" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="2380" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WPK7s5qIF8awcQLVcm9o-64" value="Master policy - Placeholder" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="-90" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-65" value="HR permission to upload file on PP" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-66" value="&lt;div&gt;Config for HR file columns&lt;/div&gt;Validate HR file to match the format" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="690" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-67" value="Sys to generate files&lt;div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="-140" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-68" value="Script to combine&lt;div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="-240" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-69" value="Script to combine&lt;div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1900" y="-240" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
