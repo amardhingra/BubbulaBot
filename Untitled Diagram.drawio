@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-12T10:59:51.374Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="MpAvzkd4hiwwlDNUISIR" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-12T11:04:21.041Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="HW5HuTI_B9WdVhVelen6" version="24.6.5" type="github">
   <diagram name="Page-1" id="uHiiFnSb_q-HpFeLsput">
     <mxGraphModel dx="2710" dy="2122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -210,11 +210,29 @@
         <mxCell id="WPK7s5qIF8awcQLVcm9o-67" value="Sys to generate files&lt;div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="-140" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="WPK7s5qIF8awcQLVcm9o-68" value="Script to combine&lt;div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="1700" y="-240" width="120" height="100" as="geometry" />
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-68" value="Script to combine&lt;div&gt;&lt;/div&gt;&lt;div&gt;Refine payroll report - requirements from Rohit/ Geetika/ Mahendran&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1685" y="-240" width="170" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="WPK7s5qIF8awcQLVcm9o-69" value="Script to combine&lt;div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-69" value="Script to generate file&lt;div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="1900" y="-240" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-70" value="Script to create file&lt;div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="120" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-71" value="Script to read NIA endorsement format&lt;div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="2100" y="130" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-72" value="Download capability&lt;div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="120" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-73" value="Reminder email to TPA&lt;div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="340" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-74" value="TPA access and columns for their response&lt;div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="955" y="340" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WPK7s5qIF8awcQLVcm9o-75" value="Report with TPA column&lt;div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1355" y="340" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
